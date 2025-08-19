@@ -1,0 +1,14 @@
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.AssemblyInfoInputs.cache
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.AssemblyInfo.cs
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.csproj.CoreCompileInputs.cache
+C:\Training\Nicolene\if_else\bin\Debug\net8.0\if_else.exe
+C:\Training\Nicolene\if_else\bin\Debug\net8.0\if_else.deps.json
+C:\Training\Nicolene\if_else\bin\Debug\net8.0\if_else.runtimeconfig.json
+C:\Training\Nicolene\if_else\bin\Debug\net8.0\if_else.dll
+C:\Training\Nicolene\if_else\bin\Debug\net8.0\if_else.pdb
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.dll
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\refint\if_else.dll
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.pdb
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\if_else.genruntimeconfig.cache
+C:\Training\Nicolene\if_else\obj\Debug\net8.0\ref\if_else.dll

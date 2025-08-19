@@ -1,0 +1,14 @@
+C:\Training\Nicolene\theswitch\bin\Debug\net8.0\theswitch.exe
+C:\Training\Nicolene\theswitch\bin\Debug\net8.0\theswitch.deps.json
+C:\Training\Nicolene\theswitch\bin\Debug\net8.0\theswitch.runtimeconfig.json
+C:\Training\Nicolene\theswitch\bin\Debug\net8.0\theswitch.dll
+C:\Training\Nicolene\theswitch\bin\Debug\net8.0\theswitch.pdb
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.AssemblyInfoInputs.cache
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.AssemblyInfo.cs
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.csproj.CoreCompileInputs.cache
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.dll
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\refint\theswitch.dll
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.pdb
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\theswitch.genruntimeconfig.cache
+C:\Training\Nicolene\theswitch\obj\Debug\net8.0\ref\theswitch.dll

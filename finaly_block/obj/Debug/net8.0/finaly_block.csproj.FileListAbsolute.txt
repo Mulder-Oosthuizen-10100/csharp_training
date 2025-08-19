@@ -1,0 +1,14 @@
+C:\Training\Nicolene\finaly_block\bin\Debug\net8.0\finaly_block.exe
+C:\Training\Nicolene\finaly_block\bin\Debug\net8.0\finaly_block.deps.json
+C:\Training\Nicolene\finaly_block\bin\Debug\net8.0\finaly_block.runtimeconfig.json
+C:\Training\Nicolene\finaly_block\bin\Debug\net8.0\finaly_block.dll
+C:\Training\Nicolene\finaly_block\bin\Debug\net8.0\finaly_block.pdb
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.AssemblyInfoInputs.cache
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.AssemblyInfo.cs
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.csproj.CoreCompileInputs.cache
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.dll
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\refint\finaly_block.dll
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.pdb
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\finaly_block.genruntimeconfig.cache
+C:\Training\Nicolene\finaly_block\obj\Debug\net8.0\ref\finaly_block.dll
